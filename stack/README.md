@@ -1,3 +1,4 @@
+  Stack:
 
   Implementation of Stack using Array.
   
